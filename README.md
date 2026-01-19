@@ -9,6 +9,8 @@ Public electric vehicle population dataset (Kaggle).
 
 ## Tools Used
 - Excel
+- Python
+- Tableau
 - Data analysis & visualization techniques
 - Reporting and presentation
 
